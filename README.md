@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 ![Image Alt Text](src/assets/Todo1.png)
 
-![Image Alt Text](src/assets/Todo2.png)
+![Image Alt Text](src/assets/todo2.png)
